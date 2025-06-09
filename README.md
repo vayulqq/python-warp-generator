@@ -15,8 +15,7 @@ Python script to generate Cloudflare WARP WireGuard configuration files using th
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/warp-config-generator.git
-   cd warp-config-generator
+   git clone https://github.com/vayulqq/python-warp-generator.git
    ```
 
 2. Ensure Python is installed:
